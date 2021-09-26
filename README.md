@@ -1,4 +1,4 @@
-# the-billioners-direction-Arakib42
+# the-worlds-billioners-Arakib42
 
 here is Live site https://the-world-billioners.netlify.app/
 
