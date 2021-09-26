@@ -1,0 +1,122 @@
+[
+    {
+        "id":1,
+        "name":"Elon Musk",
+        "worth": 199.6,
+        "age": 50,
+        "source":"Tesla, SpaceX",
+        "country":"United States",
+        "img": "./img/elon-musk.jpg"
+    },
+
+    {
+        "id":2,
+        "name":"Jeff Bezos",
+        "worth": 198.7,
+        "age": 57,
+        "source":"Amazon",
+        "country":"United States",
+        "img": "./img/jeff-bezos.jpg"
+    },
+    
+    {
+        "id":3,
+        "name":"Bernard Arnault & family",
+        "worth": 181.3,
+        "age": 72,
+        "source":"LVMH",
+        "country":"France",
+        "img": "./img/bernard-aenault.jpg"
+    },
+
+    {
+        "id":4,
+        "name":"Bill Gates",
+        "worth": 131.7,
+        "age": 65,
+        "source":"Microsoft",
+        "country":"United States",
+        "img": "./img/bill-gates.jpg"
+    },
+
+    {
+        "id":5,
+        "name":"Mark Zuckerberg",
+        "worth": 126.2,
+        "age": 37,
+        "source":"Facebook",
+        "country":"United States",
+        "img": "./img/mark-zukerberg.jpg"
+    },
+
+    {
+        "id":6,
+        "name":"Larry Page",
+        "worth": 121.6,
+        "age": 48,
+        "source":"Google",
+        "country":"United States",
+        "img": "./img/larry-page.jpg"
+    },
+
+    {
+        "id":7,
+        "name":"Larry Ellison",
+        "worth": 118.1,
+        "age": 77,
+        "source":"software",
+        "country":"United States",
+        "img": "./img/larry-ellison.jpg"
+    },
+
+    {
+        "id":8,
+        "name":"Sergey Brin",
+        "worth": 117.2,
+        "age": 48,
+        "source":"Google",
+        "country":"United States",
+        "img": "./img/sergey-brin.jpg"
+    },
+
+    {
+        "id":9,
+        "name":"Warren Buffett",
+        "worth": 100.8,
+        "age": 91,
+        "source":"Berkshire Hathaway",
+        "country":"United States",
+        "img": "./img/warren-buffett.jpg"
+    },
+
+    {
+        "id":10,
+        "name":"Mukesh Ambani",
+        "worth": 96.0,
+        "age": 64,
+        "source":"diversified",
+        "country":"India",
+        "img": "./img/mukesh-ambani.jpg"
+    },
+
+    {
+        "id":11,
+        "name":"Steve Ballmer",
+        "worth": 96.0,
+        "age": 65,
+        "source":"Microsoft",
+        "country":"United States",
+        "img": "./img/steve-ballmer.jpg"
+    },
+
+    {
+        "id":12,
+        "name":"Francoise Bettencourt Meyers & family",
+        "worth": 87.5,
+        "age": 68,
+        "source":"L'Oréal",
+        "country":"France",
+        "img": "./img/francoise-bettencourt.jpg"
+    }
+
+]
